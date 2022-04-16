@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(38, 45, 51);
+}
+
+.welcome {
+  text-align: center;
+  font-size: 4rem;
+  font-family: monospace;
+  color: #5bf460;
+}
+
+.refresh {
+  font-family: fantasy;
+  text-align: center;
+  font-size: 6rem;
+  color: #5bf460;
+}
+
+.dice1 {
+  margin-right: auto;
+  text-align: center;
+}
+
+.dice2 {
+  margin-right: auto;
+  text-align: center;
+}
+
+h3 {
+  color: #5bf460;
+}
+
+.win {
+  color: white;
+  text-align: center;
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center;
+  color: #5bf460;
+}
